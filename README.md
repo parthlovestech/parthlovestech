@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth!</h1>
-<h3 align="center">A passionate developer from Nepal,</h3>
+<h3 align="center">Currently a high school student from Nepal :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthlovestech&label=Profile%20views&color=0e75b6&style=flat" alt="parthlovestech" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Nothing much to show but you can have a look around hehe</h3>
 <p align="left">
 </p>
 
