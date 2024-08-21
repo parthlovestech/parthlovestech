@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to [Parth]'s GitHub Profile!
 
-<!--
-**parthlovestech/parthlovestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a high school student with a passion for **Physics**, and **Computer Science**. I love to **code** new stuff and some of which I like, I put it up here. I go by the username **brook** on most online platforms :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Pygame
+- **Tools**: Git, VS Code
+
