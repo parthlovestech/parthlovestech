@@ -12,7 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthlovestech&show_icons=true&locale=en&layout=compact" alt="parthlovestech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthlovestech&show_icons=true&locale=en" alt="parthlovestech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthlovestech&" alt="parthlovestech" /></p>
 
