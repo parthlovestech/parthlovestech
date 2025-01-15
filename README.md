@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parth! 👋 🇳🇵</h1>
-<h3 align="center">Colby '29 🌊</h3>
+<h3 align="center">CS:AI @Colby 🌊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthlovestech&label=Profile%20views&color=0e75b6&style=flat" alt="parthlovestech" /> </p>
 
