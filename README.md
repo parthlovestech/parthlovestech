@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Parth! 👋 </h1>
-<h3 align="center">CS:AI @Colby 🌊</h3>
+<h1 align="center">PARTHHH </h1>
+<h3 align="center">CS @Colby 🌊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthlovestech&label=Profile%20views&color=0e75b6&style=flat" alt="parthlovestech" /> </p>
 
-<h3 align="left">Weird ass repos are found here</h3>
+<h3 align="left">random repo dump</h3>
 <p align="left">
 </p>
 
